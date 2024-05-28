@@ -1,5 +1,5 @@
 # Timetable-Scheduling-using-Genetic-Algorithm
-Project Description:
+# Project Description:
 Timetable scheduling problem is a classical problem in the university environment where a
 timetable is to be made individually for each semester ensuring minimum number of clashes
 between sections, professors, and rooms. Thus, we have a timetabling problem where time slots
@@ -8,7 +8,7 @@ a particular course.
 Please note that each week, there are 2 classes per theory course (each of 1 hour 20 mins
 length), and lab courses will have a single long session of 3 hours.
 The following constraints need to be followed:
-Hard Constraints:
+# Hard Constraints:
 These are the constraints that need to be implemented in your project completely and without
 any compromises.
 • Classes can only be scheduled in free classrooms.
@@ -24,7 +24,7 @@ categories of classrooms: classroom (60) and large hall (120).
 
 • 15 mins breaks allowed between consecutive classes to ensure that there is sufficient
 time for transitions between classes.
-Soft Constraints:
+# Soft Constraints:
 These are the constraints where some compromise can be expected. Hence, you are expected
 to implement them as best as possible.
 • All the theory classes should be taught in the morning session and all the lab sessions
@@ -48,5 +48,5 @@ room-size
 • The fitness function should be an inverse or negative of the sum of all the
 conflicts/clashes.
 
-How to execute?
-Copyy this code and paste in a google collab notebook.
+# How to execute?
+Copy the code and paste in a google collab notebook.
